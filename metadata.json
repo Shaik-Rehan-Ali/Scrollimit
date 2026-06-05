@@ -1,0 +1,6 @@
+{
+  "name": "ScrollLimit",
+  "description": "Monitors and limits social media scrolling, automatically opening your favorite book to read when limits are exceeded.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

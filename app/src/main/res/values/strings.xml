@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScrollLimit</string>
+    <string name="accessibility_service_description">Monitors scrolls in YouTube, Instagram, Snapchat, Facebook, and Twitter to help you limit doom-scrolling and redirect to reading.</string>
+</resources>
